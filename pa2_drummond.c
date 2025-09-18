@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <ctype.h>
 
 int main(void) {
     double usage;
@@ -75,4 +74,5 @@ int main(void) {
         }
     }
     return 0;
+
 }
